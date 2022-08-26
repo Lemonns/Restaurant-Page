@@ -1,7 +1,3 @@
-import {createHeader} from './home.js'
-
-
-
 function createMenuTitle(container) {
     let titleDiv = document.createElement('div')
     titleDiv.classList.add("title")
